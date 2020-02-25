@@ -4,7 +4,7 @@ Earth Defender is an interactive alien-themed shooting game inspired by arcade g
 
 This project was done for ID 3510: Interactive Products in Fall 2019 at the Georgia Institute of Technology.
 
-<img src="titlescreen.png" height="150"> <img src="gameplay.png" height="150"> 
+<img src="titlescreen.png" height="300"> <img src="gameplay.png" height="300"> 
 
 ## Requirements
 ### Devices
