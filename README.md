@@ -28,6 +28,6 @@ This project was done for ID 3510: Interactive Products in Fall 2019 at the Geor
 - Lose game if HP reaches 0 or the time runs out.
 - Score is calculated by the HP left, time left, and number of hits.
 - Items have various effects
-  - Health potion: restores a small amount of HP.
-  - Attack speed buff: increases the rate of laser fire.
-  - Time increase: increases the time left by a small amount.
+  - <img src="EarthDefender/images/potion.png" height="15"> Health potion: restores a small amount of HP.
+  - <img src="EarthDefender/images/ASbuff.png" height="15"> Attack speed buff: increases the rate of laser fire.
+  - <img src="EarthDefender/images/extratime.png" height="15"> Extra time: increases the time left by a small amount.
