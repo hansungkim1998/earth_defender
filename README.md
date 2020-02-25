@@ -1,6 +1,6 @@
 # Earth Defender
 ## Description
-Earth Defender is an interactive alien-themed shooting game inspired by arcade games such as Space Invaders.
+Earth Defender is an interactive alien-themed retro shooting game inspired by arcade games such as Space Invaders.
 
 This project was done for ID 3510: Interactive Products in Fall 2019 at the Georgia Institute of Technology.
 
