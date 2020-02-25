@@ -17,7 +17,7 @@ This project was done for ID 3510: Interactive Products in Fall 2019 at the Geor
 ## Running the Game
 1. Run the game through Processing
    - Open [EarthDefender.pde](EarthDefender/EarthDefender.pde).
-   - Run by pressing Sketch > Run or the shortcut `Command+R` on Mac or `Ctrl+R` on Windows.
+   - Run by pressing Sketch > Run or the shortcut `Command + R` on Mac or `Ctrl + R` on Windows.
    - Run in full screen by pressing Sketch > Present or the shortcut `Shift + Command + R` on Mac or `Shift + Ctrl + R` on Windows.
    
 ## Playing the Game
