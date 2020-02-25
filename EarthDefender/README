@@ -1,0 +1,20 @@
+# EARTH DEFENDER
+
+## Description
+Author: HanSung Kim
+ID 3510 P2.4 Processing Game Project
+
+## Requirements
+Processing: https://processing.org/
+
+## Usage
+Open Kim_HanSung_Game_Project.pde using Processing
+Run the sketch
+
+## Sources and Licenses
+1. "laser gun 19", audio/laser.mp3, from SOUNDFISHING: https://www.soundfishing.eu/download.php?id=11881
+2. "simple laser", audio/laser2.mp3, from SOUNDFISHING: https://www.soundfishing.eu/download.php?id=512
+3. "explosion 2", audio/boom.mp3, from SOUNDFISHING: https://www.soundfishing.eu/download.php?id=507
+4. "explosion 3", audio/bigboom.mp3, from SOUNDFISHING: https://www.soundfishing.eu/download.php?id=1325
+5. "Cinematic Sci-Fi Beat", audio/intro.wav, from DL Sounds: https://www.dl-sounds.com/royalty-free/cinematic-sci-fi-beat/
+6. "Retro Gaming", font/Retro Gaming.ttf, from dafont.com: https://www.dafont.com/retro-gaming.font
